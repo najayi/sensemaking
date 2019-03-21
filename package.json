@@ -1,0 +1,23 @@
+{
+  "name": "sensemaking",
+  "version": "1.0.0",
+  "description": "Sensemaking Assignment",
+  "main": "getScores.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/najayi/sensemaking.git"
+  },
+  "author": "Nifemi Ajayi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/najayi/sensemaking/issues"
+  },
+  "homepage": "https://github.com/najayi/sensemaking#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "d3": "^5.9.2"
+  }
+}
